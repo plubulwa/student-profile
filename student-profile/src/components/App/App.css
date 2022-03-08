@@ -1,0 +1,76 @@
+
+.app {
+  
+}
+
+Button {
+  background-color: #2324c6;
+  color: #ebeaf3;
+  height: auto;
+  width: 100%;
+  border: 1px solid #ebeaf3;
+  border-radius: 3em;
+  padding: 0.2em;
+}
+
+Button:focus{
+  color: #2324c6;
+  background-color: #ebeaf3;
+}
+
+Button:visited{
+  color: #2324c6;
+  background-color: #ebeaf3;
+}
+.three-grid{
+  position: fixed;
+  bottom: 0;
+  background-color: #2324c6;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: auto;
+  width: 80%;
+  height: auto;
+ 
+}
+
+.footer{
+  margin: auto;
+  background-color: #2324c6;
+}
+.button-wrapper{
+ margin: auto;
+ width: 80%;
+ background-color: #2324c6;
+}
+.title{
+  position: fixed;
+  top: 0;
+  margin: auto;
+  width: 100%;
+  height: 5em;
+  text-align: center;
+  background-color: #2324c6;
+  border-bottom: 10px solid #98979e;
+  padding: 1em;
+
+}
+.title-text{
+  width: 80%;
+  color: #ebeaf3;
+}
+
+.content{
+  position: relative;
+  top: 5em;
+  bottom: 15em;
+  padding: 1em;
+  z-index: -1;
+  margin: auto;
+  width: 80%;
+  height: calc(100%- 20em);
+  text-align: justify;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}
+
