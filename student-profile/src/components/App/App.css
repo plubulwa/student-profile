@@ -27,21 +27,22 @@ Button:visited{
   bottom: 0;
   background-color: #2324c6;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 30% 30% 30%;
   margin: auto;
-  width: 80%;
+  width: 100%;
   height: auto;
- 
+  padding: 2em;
 }
 
 .footer{
   margin: auto;
   background-color: #2324c6;
+
 }
 .button-wrapper{
  margin: auto;
- width: 80%;
  background-color: #2324c6;
+ 
 }
 .title{
   position: fixed;
@@ -65,6 +66,8 @@ Button:visited{
   top: 5em;
   bottom: 15em;
   padding: 1em;
+  padding-bottom: 15em;
+  padding-top: 5em;
   z-index: -1;
   margin: auto;
   width: 80%;

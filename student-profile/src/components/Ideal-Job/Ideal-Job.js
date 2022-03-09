@@ -12,7 +12,33 @@ export default function IdealJob() {
                 <p>#content</p>
                 <h2>The Example</h2>
                 <h3>Software Engineer | MAD </h3>
-                <a href= "https://mad.ac/careers"><h4>Advertised on their website</h4></a>
+                <h4><a href= "https://mad.ac/careers">Advertised on their website</a></h4>
+                <p>
+                    This role requires a knowledge of several technologies in the creation of programs and apps in multiple differenet platforms,
+                    Including 
+                </p>
+                <h5> Skills</h5>
+                <ul>
+                    <li> iOS: native development using Swift or Objective-C with UIKit or 
+            SwiftUI, as well as experience releasing apps on the App Store.</li>
+                    <li>  Android: native development using Kotlin or Java with Android 
+        Views or Jetpack Compose, as well as experience releasing apps 
+            on the Play Store.</li>
+                    <li> React Native: cross-platform development using TypeScript, 
+        and preferably experience building or integrating native modules.</li>
+                <li>Web: understanding of web standards and one of the modern 
+        frameworks such as React or Vue, and experience deploying code to production.</li>
+                </ul>
+                
+                {/*
+                
+   You have a deep knowledge of one of the following platforms, and are interested in learning more about some of the others as you go:
+
+   
+  
+   
+    
+    */}
 
                 {/*The job advertisement itself. Include a link, and a snapshot of it 
                 (in case the link expires before th assignment deadline).
@@ -22,6 +48,31 @@ export default function IdealJob() {
                 • A plan describing how you will obtain the skills, qualifications and experience required for the position,
                     building on those you have now. This need not be greatly detailed, (and will probably change significantly
                     over time anyway), but try to be as specific as you can.
+
+
+You presumably have some idea of the kind of work you would like to do when you
+graduate. What features of this work are important to you? What features would you
+consider as requirements for the job to be considered “ideal”?
+Some aspects you may wish to consider are the following.
+•Working hours
+•Pay
+•Location  this one is remote...
+•Flexibility
+•Variety of work get 
+•Skills required
+•Amount of creativity
+•Prospects for travel
+•Level of teamwork
+•Amount of interaction with customers, clients, investors, management, and/or the
+general public
+•Opportunities for personal development and growth
+Transparency!! its in the job description
+
+Management style - this is agood thing
+No of days/ times... etc et ce
+•...
+
+
                 */}
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -45,14 +96,7 @@ export default function IdealJob() {
                 congue mauris rhoncus. Sagittis purus sit amet volutpat consequat mauris nunc
                 congue nisi. Integer feugiat scelerisque varius morbi enim.</p>
             <br />
-            <p>Suscipit tellus mauris a diam maecenas sed enim ut sem. Id consectetur
-                purus ut faucibus. Pellentesque nec nam aliquam sem et tortor consequat.
-                Augue interdum velit euismod in pellentesque massa placerat duis
-                ultricies. Aliquet bibendum enim facilisis gravida neque. Suspendisse
-                in est ante in nibh mauris cursus. Morbi tincidunt augue interdum velit.
-                Pretium aenean pharetra magna ac placerat vestibulum lectus. In hendrerit
-                gravida rutrum quisque non tellus orci ac auctor. Amet massa vitae tortor
-                condimentum lacinia quis vel. </p>
+          
             </div>
         </>
 

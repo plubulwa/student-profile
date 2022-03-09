@@ -4,7 +4,7 @@ export default function PersonalProfile () {
     return(
         <div className="content-div">
         <h1>Personal Profile</h1>
-        <p><i>where I tell you everything insied my mind</i></p>
+        <p><i>where I tell you everything inside my mind</i></p>
 
         <br />
         <p>#content</p>

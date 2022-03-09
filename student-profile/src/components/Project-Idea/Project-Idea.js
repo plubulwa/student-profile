@@ -7,36 +7,19 @@ export default function ProjectIdea() {
             <p><i>where I try to solve a mundane problem</i></p>
             <br />
             <p>#content</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Diam quis enim lobortis scelerisque fermentum. Ac turpis egestas
-                sed tempus. Varius sit amet mattis vulputate enim nulla aliquet
-                porttitor. Donec adipiscing tristique risus nec feugiat in fermentum.
-                Sed risus ultricies tristique nulla aliquet enim tortor at auctor.
-                Cursus in hac habitasse platea dictumst quisque sagittis purus sit.
-                Quam vulputate dignissim suspendisse in est ante in nibh.
-                Risus nullam eget felis eget. Eget dolor morbi non arcu risus quis
-                varius. Placerat orci nulla pellentesque dignissim enim sit.</p>
+            <p>At this stage - the ideal project is a modular project, designed to solve a small problem... Ths first problem I can think about would be Marco Polo - this is
+                A game that already exists ( pokemon go) but the aim is not to make a game - it is to practice iOS and/ or Android app development  using
+                React Native, Xamarin, or come other code once, deploy everywhere native platfomr
+                Utilise Common APIS( namely maps (google), user location( in- phone gps), db such as mongodb, etc) to combine them into this user interface
+                Allow for the creation of accounts(!!) or for multiple users to access the system
+                Allow for instantaneous commuication between users located within a radius (Marco!! Polo!!)
+                Simple rewards system for catching someone - its a never-enging game but you can opt out easily ( of course)...
+            </p>
             <br />
-            <p>Turpis cursus in hac habitasse platea. Tellus integer feugiat
-                scelerisque varius morbi enim nunc faucibus a. Tortor posuere
-                ac ut consequat semper viverra nam libero justo. Viverra suspendisse
-                potenti nullam ac. Ut enim blandit volutpat maecenas volutpat blandit
-                aliquam. Mi ipsum faucibus vitae aliquet nec. Massa ultricies mi quis
-                hendrerit dolor. Non odio euismod lacinia at. Fusce ut placerat orci
-                nulla pellentesque dignissim enim. Enim blandit volutpat maecenas volutpat
-                blandit aliquam etiam erat velit. Nullam vehicula ipsum a arcu cursus vitae
-                congue mauris rhoncus. Sagittis purus sit amet volutpat consequat mauris nunc
-                congue nisi. Integer feugiat scelerisque varius morbi enim.</p>
-            <br />
-            <p>Suscipit tellus mauris a diam maecenas sed enim ut sem. Id consectetur
-                purus ut faucibus. Pellentesque nec nam aliquam sem et tortor consequat.
-                Augue interdum velit euismod in pellentesque massa placerat duis
-                ultricies. Aliquet bibendum enim facilisis gravida neque. Suspendisse
-                in est ante in nibh mauris cursus. Morbi tincidunt augue interdum velit.
-                Pretium aenean pharetra magna ac placerat vestibulum lectus. In hendrerit
-                gravida rutrum quisque non tellus orci ac auctor. Amet massa vitae tortor
-                condimentum lacinia quis vel. </p>
+            <p>The motiviaion is to start to create apps in native/ xamarin that utilise some of the common API's that can be used for a mobile app system, and to try and get all of
+                of these things to communicate together in a seamless way.
+            </p>
+
         </div >
     );
 }
