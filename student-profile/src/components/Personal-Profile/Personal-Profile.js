@@ -1,6 +1,10 @@
 import React from 'react';
 import './Personal-Profile.css';
 
+import test1 from '../../assets/mediator.png';
+import test2 from '../../assets/vak-2.png';
+import test3 from '../../assets/verbaliser.png';
+
 export default function PersonalProfile() {
     return (
         <div className="content-div">
@@ -26,12 +30,13 @@ export default function PersonalProfile() {
                 </div>
                 <div className="test-small">
                     <p>Insert image here</p>
-
+                    <img className="test-pic" src={test1} alt="INFP"></img>
                 </div>
             </div>
             <div className="test-container">
                 <div className="test-small">
                     <p>Insert image here</p>
+                    <img className="test-pic" src={test2} alt="INFP"></img>
                 </div>
                 <div className="test-large">
                     <div id="test2" className="test-text-wrapper">
@@ -63,6 +68,7 @@ export default function PersonalProfile() {
                 </div>
                 <div className="test-small">
                     <p>Insert image here</p>
+                    <img className="test-pic" src={test3} alt="INFP"></img>
                 </div>
             </div>
 
