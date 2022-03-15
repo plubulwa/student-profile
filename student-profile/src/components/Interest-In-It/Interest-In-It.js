@@ -55,7 +55,7 @@ export default function InterestInIt() {
                     however the first step is to get really good at programming patterns so I can tackle anything.
                 </p>
                 <p>Currently I am working on a small 'portfolio' style puzzle game website made up of modern classics (Sudoku and Wordle). Both are in the process of being coded in the React.JS 
-                    framework 
+                    framework
                 </p>
                 scelerisque varius morbi enim nunc faucibus a. Tortor posuere
                 ac ut consequat semper viverra nam libero justo. Viverra suspendisse
