@@ -1,0 +1,24 @@
+.test-small{
+    width: 35%;
+    height: 300px;
+    background-color: #e30062;
+   padding: 2em;
+  
+}
+
+
+.test-large{
+    width: 65%;
+    height: 300px;
+    background-color: #399b52;
+    padding: 2em;
+    
+
+}
+
+
+.test-container{
+    display:flex;
+    padding: 1em;
+    
+}

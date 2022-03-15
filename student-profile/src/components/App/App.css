@@ -25,7 +25,7 @@ Button:visited{
 .three-grid{
   position: fixed;
   bottom: 0;
-  background-color: #2324c6;
+  background-color: #30afff;
   display: grid;
   grid-template-columns: 30% 30% 30%;
   margin: auto;
