@@ -35,6 +35,12 @@ export default function PersonalProfile() {
             <h3>Context around these results</h3>
             <br></br>
             <p>What does it all mean??</p>
+            {/*
+            
+                I think that the comment section here is a personal reflection kind of thing - taking note that most of these tests are arbitrary and not
+                scientific.....
+                I think that its all
+            */}
             <br />
 
         </div>
