@@ -42,7 +42,7 @@ export default function InterestInIt() {
             <h2>The current focus</h2>
             <p> I am interested in programming mainly- with a desire to build applications and web interface which have good to great functionality, are easy to use, and
                 can provide something a little different in how one interacts with and interface, or thinks about how a web page, or and app, should function. I have spent a lot of
-                time learning:
+                time learning:</p>
                 <ul>
                     <li>Java</li>
                     <li>Javascript ('vanilla')</li>
@@ -55,26 +55,8 @@ export default function InterestInIt() {
                     however the first step is to get really good at programming patterns so I can tackle anything.
                 </p>
                 <p>Currently I am working on a small 'portfolio' style puzzle game website made up of modern classics (Sudoku and Wordle). Both are in the process of being coded in the React.JS 
-                    framework
-                </p>
-                scelerisque varius morbi enim nunc faucibus a. Tortor posuere
-                ac ut consequat semper viverra nam libero justo. Viverra suspendisse
-                potenti nullam ac. Ut enim blandit volutpat maecenas volutpat blandit
-                aliquam. Mi ipsum faucibus vitae aliquet nec. Massa ultricies mi quis
-                hendrerit dolor. Non odio euismod lacinia at. Fusce ut placerat orci
-                nulla pellentesque dignissim enim. Enim blandit volutpat maecenas volutpat
-                blandit aliquam etiam erat velit. Nullam vehicula ipsum a arcu cursus vitae
-                congue mauris rhoncus. Sagittis purus sit amet volutpat consequat mauris nunc
-                congue nisi. Integer feugiat scelerisque varius morbi enim.</p>
-            <br />
-            <p>Suscipit tellus mauris a diam maecenas sed enim ut sem. Id consectetur
-                purus ut faucibus. Pellentesque nec nam aliquam sem et tortor consequat.
-                Augue interdum velit euismod in pellentesque massa placerat duis
-                ultricies. Aliquet bibendum enim facilisis gravida neque. Suspendisse
-                in est ante in nibh mauris cursus. Morbi tincidunt augue interdum velit.
-                Pretium aenean pharetra magna ac placerat vestibulum lectus. In hendrerit
-                gravida rutrum quisque non tellus orci ac auctor. Amet massa vitae tortor
-                condimentum lacinia quis vel. </p>
+                    framework</p>
+               
         </div>
     );
 }
