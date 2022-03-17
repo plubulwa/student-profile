@@ -1,4 +1,7 @@
 import React from 'react';
+
+import { BrowserRouter, HashRouter, Link, Routes, Route } from 'react-router-dom';
+
 import './Personal-Profile.css';
 
 import test1 from '../../assets/mediator.png';
@@ -7,9 +10,11 @@ import test3 from '../../assets/verbaliser.png';
 
 export default function PersonalProfile() {
     return (
+        <>
+        <BrowserRouter>
         <div className="content-div">
             <h1>Personal Profile</h1>
-            <p><i>where I tell you everything inside my mind, based on unproven scientific testing</i></p>
+            <p><i><a href ="https://vimeo.com/1295245" target="_blank">where I tell you everything inside my mind, based on unproven scientific testing</a></i></p>
 
             <br />
             <p>#content</p>
@@ -20,7 +25,7 @@ export default function PersonalProfile() {
                 <div className="test-large">
                     <div id="test1" className="test-text-wrapper">
                         <h3>Test 1: Myer-Briggs-style Personality Test</h3>
-                        <p><a href="https://www.16personalities.com/" target="_blank"><i>Source : www.16personalities.com </i></a></p>
+                        <p><Link to="https://www.16personalities.com/" target="_blank"><i>Source : www.16personalities.com </i></Link></p>
                         <br></br>
                         <h4>Results</h4>
                         <h5>INFP - The Mediator</h5>
@@ -44,7 +49,8 @@ export default function PersonalProfile() {
                         <p><a href="https://personalitymax.com/learning-styles-test/" target="_blank"><i>Source : www.personalitymax.com</i></a></p>
                         <br></br>
                         <h4>Results</h4>
-                        <p>Visual - 38%</p>
+                        <p><a href="https://www.youtube.com/watch?v=kRMqCukTyPw">Visual - 38%</a></p>
+                        <p><i>I shot half of the above clip- breaking the fourth wall</i></p>
                         <p>Kinetic - 33%</p>
                         <p>Aural - 29%</p>
 
@@ -87,5 +93,7 @@ export default function PersonalProfile() {
             <br />
 
         </div>
+        </BrowserRouter>
+        </>
     );
 }

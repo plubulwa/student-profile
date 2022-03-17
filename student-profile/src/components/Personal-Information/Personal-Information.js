@@ -38,7 +38,8 @@ export default function PersonalInformation() {
             <h4>Facts and oddities</h4>
             <p>I been a touring musician since around 2007 (aging myself) and have recorded a number of albums with
                 several bands and featured on a number of records. Rather than link derectly them here there are several
-                spots throughout the profile on which you can click at get "Pete Rolled". If the mood takes you.
+                spots throughout the profile on which you can click at get "Pete Rolled". 
+                If the mood takes<a href="https://www.youtube.com/watch?v=K-60eTidwkE"> you.</a>
             </p>
             <p><i>Also, a short narrative</i></p>
             <br />
@@ -79,7 +80,7 @@ export default function PersonalInformation() {
                 time learning:</p>
             <ul>
                 <li>Java</li>
-                <li>Javascript ('vanilla')</li>
+                <li><a href="https://www.youtube.com/watch?v=ZhGzbmwgxGA">Javascript ('vanilla')</a></li>
                 <li>React (currently)</li>
             </ul>
             <p>I am currently in a steep learning curve with the Swift/ Objective-C iOS framework, and have yet to apply my old school Java knowledge
