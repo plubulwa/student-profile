@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93334"
+   version="1.1"
+   id="svg886"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="template.svg"
+   inkscape:export-filename="/Users/peterlubulwa/Documents/RMIT/RMIT Semester 1 2022/Intro to IT/MACIIT/Iconography/project-icon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs880">
+    <rect
+       x="50.906792"
+       y="203.30679"
+       width="169.11976"
+       height="33.653091"
+       id="rect1476" />
+    <rect
+       x="50.906792"
+       y="203.30679"
+       width="169.11976"
+       height="33.653091"
+       id="rect1529" />
+    <rect
+       x="50.906792"
+       y="203.30679"
+       width="169.11976"
+       height="33.653091"
+       id="rect1552" />
+    <rect
+       x="50.906792"
+       y="203.30679"
+       width="169.11976"
+       height="33.653091"
+       id="rect1560" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="265.71429"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1252"
+     inkscape:window-height="1174"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata883">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Image Grid"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:#e7eff4;fill-opacity:0.919028;stroke:#010204;stroke-width:0.203159;stroke-linecap:round"
+       id="rect1449"
+       width="169.13017"
+       height="169.13017"
+       x="50.901581"
+       y="33.968246" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text Grid"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#e7eff4;fill-opacity:0.919028;stroke:#010204;stroke-width:0.213579;stroke-linecap:round"
+       id="rect1452"
+       width="169.11975"
+       height="33.653088"
+       x="50.906792"
+       y="203.30679" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text - Project"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       id="text1474"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1476);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1584247,0,0,2.5983402,-116.6438,-325.73685)"><tspan
+         x="50.90625"
+         y="212.96211"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Project Idea</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Image - Project"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <path
+       d="m 59.115478,73.629762 c 0,-7.0141 5.685896,-12.7 12.7,-12.7 h 25.4 c 7.011462,0 12.700002,5.6859 12.700002,12.7 v 4.23333 h 50.8 v -4.23333 c 0,-7.0141 5.68854,-12.7 12.7,-12.7 h 25.4 c 7.01146,0 12.7,5.6859 12.7,12.7 v 25.4 c 0,7.011458 -5.68854,12.699998 -12.7,12.699998 h -25.4 c -7.01146,0 -12.7,-5.68854 -12.7,-12.699998 v -4.23333 h -50.8 v 4.23333 c 0,0.44979 -0.0265,0.89958 -0.0794,1.084788 l 21.24604,28.54854 h 25.4 c 7.01146,0 12.7,5.68855 12.7,12.7 v 25.4 c 0,7.01146 -5.68854,12.7 -12.7,12.7 h -25.4 c -7.01146,0 -12.7,-5.68854 -12.7,-12.7 v -25.4 c 0,-0.44979 0.0265,-0.89958 0.0794,-1.32291 L 97.215478,111.72976 h -25.4 c -7.014104,0 -12.7,-5.68854 -12.7,-12.699998 z"
+       id="path1480"
+       style="stroke-width:0.264583" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1527"
+     inkscape:label="Text - Interest in IT"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       id="text1525"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1529);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1584247,0,0,2.5983402,-118.91166,-321.95709)"><tspan
+         x="50.90625"
+         y="212.96211"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Interest in IT</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Image - Interest In It"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       d="M 84.515479,77.982156 H 186.11548 v 67.733334 h 16.93333 V 73.748823 c 0,-6.979709 -5.72029,-12.7 -12.7,-12.7 H 80.282146 c -6.979709,0 -12.700001,5.720291 -12.700001,12.7 V 145.71549 H 84.515479 Z M 215.74881,153.94404 H 54.882145 c -2.315104,0 -4.233333,1.91822 -4.233333,4.23333 v 4.23333 c 0,9.32656 7.606771,16.93334 16.933333,16.93334 H 203.04881 c 9.32656,0 16.93333,-7.60678 16.93333,-16.93334 v -4.23333 c 0,-2.09021 -1.905,-4.23333 -4.23333,-4.23333 z"
+       id="path1512"
+       style="stroke-width:0.264583" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1550"
+     inkscape:label="Text - Ideal Job"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       id="text1548"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1552);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1584247,0,0,2.5983402,-96.233088,-322.71304)"><tspan
+         x="50.90625"
+         y="212.96211"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Ideal Job</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Image -  Ideal Job"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       d="m 152.24881,144.84048 c 0,2.33997 -1.89336,4.23333 -4.23333,4.23333 h -25.4 c -2.32834,0 -4.23334,-1.905 -4.23334,-4.23333 v -12.7 H 67.582142 v 38.1 c 0,6.77333 5.929312,12.7 12.7,12.7 H 190.34881 c 6.77069,0 12.70001,-5.92931 12.70001,-12.7 v -38.1 h -50.80001 z m 38.1,-63.500002 h -21.16667 v -12.7 c 0,-6.77069 -5.92666,-12.7 -12.7,-12.7 h -42.33333 c -6.77333,0 -12.7,5.92931 -12.7,12.7 v 12.7 H 80.282142 c -6.770688,0 -12.7,5.92667 -12.7,12.7 V 123.67381 H 203.04882 V 94.040478 c 0,-6.77333 -5.92667,-12.7 -12.70001,-12.7 z m -33.86667,0 h -42.33333 v -12.7 h 42.33333 z"
+       id="path1535"
+       style="stroke-width:0.264583" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1558"
+     inkscape:label="Text - Personal Profile"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       id="text1556"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1560);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(3.1584247,0,0,2.5983402,-144.61404,-322.71304)"><tspan
+         x="50.90625"
+         y="212.96211"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Personal Profile</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Image - Personal Profile"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       d="M 198.81548,63.197619 H 71.815477 c -7.014104,0 -12.7,5.685897 -12.7,12.700001 v 4.233333 H 211.51548 V 75.89762 c 0,-7.014104 -5.68854,-12.700001 -12.7,-12.700001 z M 59.115477,169.03095 c 0,7.01146 5.685896,12.7 12.7,12.7 H 198.81548 c 7.01411,0 12.7,-5.6859 12.7,-12.7 V 88.59762 H 59.115477 Z m 97.366673,-63.5 h 33.86666 c 2.32834,0 4.23334,1.905 4.23334,4.23334 0,2.32833 -1.905,4.23333 -4.23334,4.23333 h -33.86666 c -2.32833,0 -4.23333,-1.905 -4.23333,-4.23333 0,-2.32834 1.905,-4.23334 4.23333,-4.23334 z m 0,16.93333 h 33.86666 c 2.32834,0 4.23334,1.905 4.23334,4.23334 0,2.32833 -1.905,4.23333 -4.23334,4.23333 h -33.86666 c -2.32833,0 -4.23333,-1.905 -4.23333,-4.23333 0,-2.32834 1.905,-4.23334 4.23333,-4.23334 z m 0,16.93334 h 33.86666 c 2.33786,0 4.23334,1.89547 4.23334,4.23333 0,2.33786 -1.905,4.23333 -4.23334,4.23333 h -33.86666 c -2.33786,0 -4.23333,-1.89547 -4.23333,-4.23333 0,-2.33786 1.905,-4.23333 4.23333,-4.23333 z m -50.80001,-33.86667 c 9.35303,0 16.93334,7.58296 16.93334,16.93333 0,9.35038 -7.58031,16.93334 -16.93334,16.93334 -9.353017,0 -16.933329,-7.58296 -16.933329,-16.93334 0,-9.35037 7.593541,-16.93333 16.933329,-16.93333 z m -16.933329,42.33333 h 33.866669 c 7.01411,0 12.7,5.6859 12.7,12.7 0,2.33786 -1.89547,4.23334 -4.23333,4.23334 H 80.282144 c -2.338917,0 -4.233334,-1.905 -4.233334,-4.23334 0,-7.01146 5.685896,-12.7 12.700001,-12.7 z"
+       id="path1563"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>

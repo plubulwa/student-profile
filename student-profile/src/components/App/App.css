@@ -23,13 +23,14 @@ Button:visited{
   background-color: #ebeaf3;
 }
 .three-grid{
-  position: fixed;
-  bottom: 0;
+  
   background-color: #30afff;
+ /*
   display: grid;
   grid-template-columns: 30% 30% 30%;
+  */
   margin: auto;
-  width: 100%;
+  width: 40%;
   height: auto;
   padding: 2em;
 }
@@ -40,6 +41,10 @@ Button:visited{
 
 }
 .button-wrapper{
+  position: fixed;
+  top: 10em;
+  bottom: 15em;
+  right:0em;
  margin: auto;
  background-color: #2324c6;
  
@@ -60,9 +65,12 @@ Button:visited{
   width: 80%;
   color: #ebeaf3;
 }
+main{
+  display: flex;
+}
 
 .content{
-  position: relative;
+  position: fixed;
   top: 5em;
   bottom: 15em;
   padding: 1em;
@@ -70,7 +78,7 @@ Button:visited{
   padding-top: 5em;
   z-index: -1;
   margin: auto;
-  width: 80%;
+  width: 60%;
   height: calc(100%- 20em);
   text-align: justify;
   overflow-y: scroll;

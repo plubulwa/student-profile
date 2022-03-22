@@ -22,6 +22,7 @@ function App() {
       </header>
       <HashRouter>
         <main>
+          
           <div className="content">
 
             <Routes>
@@ -33,8 +34,6 @@ function App() {
               <Route path="/project-idea" element={<ProjectIdea />} />
             </Routes>
           </div>
-        </main>
-        <footer className="footer">
           <div className="button-wrapper">
             <nav className="three-grid">
 
@@ -47,6 +46,9 @@ function App() {
 
             </nav>
           </div>
+        </main>
+        <footer className="footer">
+          
         </footer>
 
 
