@@ -1,11 +1,9 @@
 import React from 'react';
 
-import Screenshots from '../Ideal-Job/Screenshots';
 
 export default function IdealJob() {
     return (
         <>
-
             <div className="content-div">
                 <h1>Ideal Job</h1>
                 <h2>Software Engineer</h2>
@@ -15,8 +13,8 @@ export default function IdealJob() {
                 <br />
                 <hr></hr>
                 <h2>The Example</h2>
-                <h3>Software Engineer - Full Stack | <a>Stile</a></h3>
-                <p><i><a href="https://ethicaljobs.com.au/members/stileeducation/software-engineer-full-stack-1?categories=34,23,37&page=1">Advertised on Ethical Jobs</a></i></p>
+                <h3>Software Engineer - Full Stack | Stile</h3>
+                <p><i>Advertised on Ethical Jobs</i></p>
                 <br />
                 
                 <p><i>Snapshot required</i></p>
@@ -46,9 +44,7 @@ export default function IdealJob() {
                 <p>Learning, tutorials, amking my own projects... and ...</p>
                 <br></br>
 
-
-                
-                {/*
+ {/*
 
                 <Route path="/ideal-job/screenshots" element={<Screenshots />} />
 
@@ -77,10 +73,12 @@ No of days/ times... etc et ce
 
                 */}
                 
+        
+                
                
             </div>
-        </>
-
-
+            </>
     );
+
+           
 }

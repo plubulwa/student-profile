@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+
 
 export default function ProjectIdea() {
     return (
@@ -58,7 +58,7 @@ m            <p><i>500 words</i></p>
                     <li>Anonymous mode</li>
                     <li>Friend mode</li>
                     <li>Safety Protocols</li>
-                    <li><a href="https://vimeo.com/4054339" target="_blank">Mandatory Opt in</a></li>
+                    <li>Mandatory Opt in</li>
 
                 </ul>
                 </li>
