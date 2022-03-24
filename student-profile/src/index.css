@@ -1,7 +1,10 @@
+*{
+  box-sizing: border-box;
+}
 body {
   margin: auto;
   font-family: 'Raleway', sans-serif;
-  font-size: 8pt;
+  font-size: 6pt;
   background-color: #ebeaf3;
 }
 
@@ -15,59 +18,4 @@ a{
 
 }
 	
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  /* Styles */
-  }
-   
-  /* Smartphones (landscape) ----------- */
-  @media only screen and (min-width : 321px) {
-  /* Styles */
-  }
-   
-  /* Smartphones (portrait) ----------- */
-  @media only screen and (max-width : 320px) {
-  /* Styles */
-  }
-   
-  /* iPads (portrait and landscape) ----------- */
-  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-  /* Styles */
-  body{
-    font-size: 10pt;
- }
-  }
-   
-  /* iPads (landscape) ----------- */
-  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-  /* Styles */
-  body{
-    font-size: 10pt;
- }
-  }
-   
-  /* iPads (portrait) ----------- */
-  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-  /* Styles */
-  body{
-    font-size: 10pt;
- }
-  }
-  /* Desktops and laptops ----------- */
-  @media only screen  and (min-width : 1224px) {
-  /* Styles */
-  body{
-    font-size: 12pt;
- }
-
-  }
-   
-  /* Large screens ----------- */
-  @media only screen  and (min-width : 1824px) {
-  /* Styles */
-   body{
-      font-size: 16pt;
-   }
-  
-  }
   

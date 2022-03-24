@@ -26,4 +26,5 @@
 .test-pic{
     width: 100%;
     height: auto;
+    min-width: 300px;
 }
