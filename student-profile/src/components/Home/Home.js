@@ -8,7 +8,7 @@ export default function Home() {
     return (
 
         <>
-            <video width="100%" height="auto" src={Peter} type="video/mp4" autoPlay loop muted>
+            <video width="100%" height="auto" src={Peter} type="video/mp4" autoPlay loop muted playsInline>
                 <p>Your browser does not support the video tag.</p>
             </video>
         </>

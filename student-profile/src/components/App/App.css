@@ -1,9 +1,15 @@
 
 .app {
   font-size: 6pt;
+  max-width: 768px;
+
+
 }
 
-
+img{
+  border-radius: 1em;;
+  box-shadow:  1em 1em #ff00a8, -1em -1em #30afff;
+}
 
 
 .footer{
@@ -38,7 +44,7 @@
   top: 1em;
   left: 0;
   font-size: 3em;
-  text-shadow: 2px 2px #30afff, -2px -2px #ff00a8;
+  text-shadow: 1px 1px #30afff, -1px -1px #ff00a8;
 }
 
 .button-wrapper{
@@ -66,7 +72,7 @@ margin: 3em;
 
   color: #ebeaf3;
   text-align: justify;
-  text-shadow: 2px 2px #30afff;
+  text-shadow: 1px 1px #30afff;
   width: 50%;
   right: 5em;
 
@@ -75,20 +81,20 @@ margin: 3em;
 .nav-link{
   font-size: 1.5em;
   color: #ebeaf3;
-  text-shadow: 2px 2px #30afff;
+  text-shadow: 1px 1px #30afff;
   padding: 1em;
   margin: 1em;
 }
 
 .nav-link:hover{
   padding: 0.5em;
-  text-shadow: 2px 2px #ff00a8;
+  text-shadow: 1px 1px #ff00a8;
   font-size: 2em;
 }
 
 .nav-link:focus{
   padding: 0.5em;
-  text-shadow: 2px 2px #ff00a8;
+  text-shadow: 1px 1px #ff00a8;
   font-size: 2em;
   
   background: rgb(227,0,98);
@@ -170,7 +176,6 @@ main{
 
 .content-text{
   background-color: #ebeaf3;
-  border: 1px solid gray;
   border-radius: 1%;
   padding: 3em;
   box-shadow: 2em 2em #ff00a8, -2em -2em #30afff;
