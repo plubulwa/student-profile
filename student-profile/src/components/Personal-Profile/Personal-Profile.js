@@ -13,6 +13,7 @@ export default function PersonalProfile() {
         <>
 
         <div className="content-div">
+            <div className='content-text'>
             <h1>Personal Profile</h1>
             <p><i>where I tell you everything inside my mind, based on unproven scientific testing</i></p>
 
@@ -92,7 +93,7 @@ export default function PersonalProfile() {
             <br />
 
         </div>
-        
+        </div>
         </>
     );
 }

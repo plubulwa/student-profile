@@ -5,6 +5,7 @@ export default function IdealJob() {
     return (
         <>
             <div className="content-div">
+                <div className='content-text'>
                 <h1>Ideal Job</h1>
                 <h2>Software Engineer</h2>
                 <p><i>because I wanna do everything</i></p>
@@ -76,6 +77,7 @@ No of days/ times... etc et ce
         
                 
                
+            </div>
             </div>
             </>
     );

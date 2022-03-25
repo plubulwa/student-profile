@@ -4,6 +4,7 @@ import React from 'react';
 export default function ProjectIdea() {
     return (
         <div className="content-div">
+            <div className='content-text'>
             <h1>Project Idea</h1>
             <p><i>where I try to solve a mundane problem</i></p>
             <br />
@@ -90,7 +91,7 @@ m            <p><i>500 words</i></p>
             <p>What is the outcome</p>
             <br />
 
-
+            </div>
         </div >
     );
 }
