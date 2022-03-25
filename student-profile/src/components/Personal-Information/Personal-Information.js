@@ -20,6 +20,20 @@ export default function PersonalInformation() {
                         <li>Github Pages : plubulwa.github.io/profile</li>
                         <li>Github Repository( student) : github.com/plubulwa</li>
                     </ul>
+                    <h2> Brief bio</h2>
+                    <p>Melbourne born but grew up in Canberra, I am currently and IT student at RMIT. I am very keen
+                        on programming and software engineering. My family are from Uganda, I have previously been at
+                        university before (studying a diverse range of things from biomedical science to music), and in
+                        general I will be trying to learn about xyz.</p>
+                    <p>Languages- English only, however know a tiny bit of Japanese, a smaller amount of mandarin, an OK amount of French, and learning my own language(which is Luganda)
+                    </p>
+                    <br />
+                    <h4>Facts and oddities</h4>
+                    <p>I been a touring musician since around 2007 (aging myself) and have recorded a number of albums with
+                        several bands and featured on a number of records. Rather than link derectly them here there are several
+                        spots throughout the profile on which you can click at get "Pete Rolled".
+                        If the mood takes<a href="https://www.youtube.com/watch?v=K-60eTidwkE"> you.</a>
+                    </p>
                 </div>
                 <div className="picture-holder">
                     <img className="profile-pic" src={profilesquare} alt="Peter Lubulwa"></img>
@@ -27,20 +41,7 @@ export default function PersonalInformation() {
 
             </div>
 
-            <h2> Brief bio</h2>
-            <p>Melbourne born but grew up in Canberra, I am currently and IT student at RMIT. I am very keen
-                on programming and software engineering. My family are from Uganda, I have previously been at
-                university before (studying a diverse range of things from biomedical science to music), and in
-                general I will be trying to learn about xyz.</p>
-            <p>Languages- English only, however know a tiny bit of Japanese, a smaller amount of mandarin, an OK amount of French, and learning my own language(which is Luganda)
-            </p>
-            <br />
-            <h4>Facts and oddities</h4>
-            <p>I been a touring musician since around 2007 (aging myself) and have recorded a number of albums with
-                several bands and featured on a number of records. Rather than link derectly them here there are several
-                spots throughout the profile on which you can click at get "Pete Rolled". 
-                If the mood takes<a href="https://www.youtube.com/watch?v=K-60eTidwkE"> you.</a>
-            </p>
+
             <p><i>Also, a short narrative</i></p>
             <br />
 
