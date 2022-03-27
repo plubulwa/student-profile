@@ -1,5 +1,5 @@
 import React from 'react';
-import {HashRouter, Link, Routes, Route } from 'react-router-dom';
+import {HashRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 import Home from '../Home/Home';
@@ -9,7 +9,7 @@ import InterestInIt from '../Interest-In-It/Interest-In-It';
 import PersonalProfile from '../Personal-Profile/Personal-Profile';
 import ProjectIdea from '../Project-Idea/Project-Idea';
 
-import Buttons from '../Buttons/Buttons.js';
+
 import Navigation from '../Navigation/Navigation';
 
 function App() {
@@ -43,9 +43,7 @@ function App() {
 
 
       </HashRouter>
-      <footer >
-          <div className='footer'></div>
-          </footer>
+      
     </div>
   );
 }

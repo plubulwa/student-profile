@@ -1,8 +1,9 @@
 
 .app {
-  font-size: 6pt;
+  font-size: 8pt;
+  width: 90;
+  margin: auto;
   max-width: 768px;
-
 
 }
 
@@ -27,143 +28,79 @@ img{
   top: 0;
   margin: auto;
   width: 100%;
-  height: 15em;
+  height: 20em;
   text-align: center;
   background-color: #232427;
-  
-  
   padding: 1em;
   padding-bottom: 5em;
   display: flex;
 
 }
 .title-text{
-  width: 50%;
+  width: 100%;
   color: #ebeaf3;
   position: fixed;
   top: 1em;
   left: 0;
   font-size: 3em;
   text-shadow: 1px 1px #30afff, -1px -1px #ff00a8;
+  background-color: #232427;
 }
 
-.button-wrapper{
-  position: fixed;
-  top: -8em;
-  right: 0;
-  display: flex;
-  width: 65%;
-  height: calc(100% - 10em);
-  margin: auto;
- 
- padding: 1em;
-padding-top: 5%;
- padding-right: 5%;
-
- 
-}
 .navigation-wrapper{
   display: flex;
-  position: fixed;
+  position: relative;
   top: 0em;
   right: 0;
-padding: 3em;
-margin: 3em;
-
   color: #ebeaf3;
   text-align: justify;
   text-shadow: 1px 1px #30afff;
-  width: 50%;
-  right: 5em;
-
+  width: 100%;
 }
 
 .nav-link{
   font-size: 1.5em;
   color: #ebeaf3;
   text-shadow: 1px 1px #30afff;
-  padding: 1em;
   margin: 1em;
 }
 
 .nav-link:hover{
-  padding: 0.5em;
   text-shadow: 1px 1px #ff00a8;
   font-size: 2em;
+ 
 }
 
 .nav-link:focus{
-  padding: 0.5em;
-  text-shadow: 1px 1px #ff00a8;
-  font-size: 2em;
+  color: #ff00a8;
+  text-shadow: 1px 1px #30afff;
+  font-size: 1.65em;
+  height: auto;
   
-  background: rgb(227,0,98);
-  background: linear-gradient(90deg, rgba(227,0,98,1) 0%, rgba(255,174,123,1) 20%, rgba(238,238,51,1) 35%, rgba(51,204,153,1) 54%, rgba(48,175,255,1) 72%, rgba(255,0,168,1) 91%);
-  border-radius: 5%;
 }
 
 .nav-link:visited{
-  padding: 0.5em;
   color: #ff00a8;
-  font-size: 2em;
-  background: rgb(227,0,98);
-background: radial-gradient(circle, rgba(227,0,98,1) 0%, rgba(255,174,123,1) 20%, rgba(238,238,51,1) 35%, rgba(51,204,153,1) 54%, rgba(48,175,255,1) 72%, rgba(35,36,198,1) 79%, rgba(85,0,248,1) 83%, rgba(255,0,168,1) 91%);
-  
-  border-radius: 5%;
+  text-shadow: 1px 1px #30afff;
+  font-size: 1.65em;
+ 
 }
 
 .separator{
   width: 3em;
 }
 
-Button {
-  background-color: #30afff;
-  color: #ebeaf3;
-  height: auto;
-  width: 40%;
-  min-height: 100px;
-  min-width: 100px;
-  border: 1px solid #ebeaf3;
-  border-radius: 15%;
-  padding: 0.2em;
-  margin: 0.5em;
-}
 
-
-
-Button:hover{
-  background-color: #9aafff;
-}
-
-
-Button:focus{
- 
-  background-color: #ebeaf3;
-}
-
-Button:visited{
- 
-  background-color: #ebeaf3;
-}
-
-.button-icon{
-  
-  width: 90%;
-  height: auto;
-}
 
 main{
   display: flex;
 }
 
 .content{
-  position: fixed;
-  top: 15em;
+  position: relative;
+  top: 20em;
   padding: 1em;
-  padding-left: 15em;
-  padding-right: 15em;
-  padding-bottom: 25em;
-  padding-top: 25em;
+padding-top: 3em;
   background-color: #232427;
   margin: auto;
   width: 100%;
@@ -171,35 +108,44 @@ main{
   text-align: justify;
   overflow-y: auto;
   overflow-wrap: break-word;
+  z-index: -1;
   
 }
 
 .content-text{
   background-color: #ebeaf3;
-  border-radius: 1%;
+  border-radius: 1em;
   padding: 3em;
   box-shadow: 2em 2em #ff00a8, -2em -2em #30afff;
+  z-index: -1;
 }
 
 @media screen and (max-width: 500px){
   main{
     display: block;
   }
-  .button-wrapper{
-    position: absolute;
-   
-    bottom: -30em;
 
-    width: 100%;
-    height: 8em;
-   margin: auto;
-   
-   padding: 1em;
-   
-   z-index: 10;
-   
+  .title{
+    display: block;
+    height: auto;
+    z-index: 10;
   }
 
+  .title-text{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: auto;
+  }
+  .navigation-wrapper{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: auto;;
+   margin: auto;
+   padding: 1em;
+   z-index: 10;
+  }
 
 .content{
   
@@ -211,21 +157,8 @@ main{
   transition: all 0.8s;
 }
 
-  Button {
-    
-    height: auto;
-    width: 25%;
-    
-    padding: 0.1em;
-    margin: 0.1em;
-  }
-
-  .footer{
-    visibility: hidden;
-  }
+ 
 
 
 }
   
-
-

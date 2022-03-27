@@ -14,6 +14,9 @@ export default function PersonalInformation() {
                 <p>#content</p>
 
                 <div className="front-matter-holder">
+                <div className="picture-holder">
+                        <img className="profile-pic" src={profilesquare} alt="Peter Lubulwa"></img>
+                    </div>
 
                     <div className="name-holder">
                         <h2>Front Matter</h2>
@@ -25,17 +28,17 @@ export default function PersonalInformation() {
                         </ul>
                         <h2> Brief bio</h2>
                         <p>Melbourne born but Canberra raised, I am currently an IT student at RMIT. 
-                            I am very keen on programming and software engineering. My family are from Uganda, 
-                            I have previously been at university before (studying a diverse range of things from 
-                            biomedical science to music), and in general one could say this is a new adventure in technology.
+                            I am very keen on programming and software engineering. My family are from 
+                            Uganda, I have previously been at university before (studying a diverse 
+                            range of things from biomedical science to music), and in general one 
+                            could say this is a new adventure in technology.
                         </p>
                         <br></br>
-                        <p>I am a native English speaker, however have learnt a tiny bit of Japanese, a 
-                            smaller amount of Mandarin, an OK amount of French, and I am current learning 
-                            my own language (which is Luganda - my parents only spoke English at home when 
-                            I was growing up – so it’s taken a while).
+                        <p>I am a native English speaker, however have learnt a tiny bit of Japanese, 
+                            a smaller amount of Mandarin, an OK amount of French, and I am current 
+                            learning my own language (which is Luganda - my parents only spoke 
+                            English at home when I was growing up – so it’s taken a while).
                         </p>
-                        
                         <br />
                         <h4>Facts and oddities</h4>
                         <ol>
@@ -49,9 +52,7 @@ export default function PersonalInformation() {
                         </ol>
                         
                     </div>
-                    <div className="picture-holder">
-                        <img className="profile-pic" src={profilesquare} alt="Peter Lubulwa"></img>
-                    </div>
+                   
 
                 </div>
             </div>

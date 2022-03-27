@@ -1,8 +1,6 @@
 .front-matter-holder{
-    display: grid;
-    grid-template: auto / auto auto;
-  
-
+    display: block;
+    
 
 }
 
