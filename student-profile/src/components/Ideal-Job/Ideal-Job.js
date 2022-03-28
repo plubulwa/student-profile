@@ -1,5 +1,8 @@
 import React from 'react';
 
+import job1 from '../../assets/job/Job-1.png';
+import job2 from '../../assets/job/Job-2.png';
+import job3 from '../../assets/job/Job-3.png';
 
 export default function IdealJob() {
     return (
@@ -18,7 +21,13 @@ export default function IdealJob() {
                     <p><i>Advertised on Ethical Jobs</i></p>
                     <br />
 
-                    <p><i>Snapshot required</i></p>
+                    <img src={job1} alt="Stile - job image 1"></img>
+                    <br />
+                    <img src={job2} alt="Stile - job image 2"></img>
+                    <br />
+                    <img src={job3} alt="Stile - job image 3"></img>
+                    <br />
+                    
                     <h4>Position Description</h4>
                     <p>
                         This role is a full stack engineering role for a company
