@@ -17,7 +17,7 @@ export default function PersonalProfile() {
                     <p><i>where I tell you everything inside my mind, based on unproven scientific testing</i></p>
 
                     <br />
-                    
+
                     <br></br>
                     <hr></hr>
                     <h2>The Tests</h2>
@@ -29,7 +29,33 @@ export default function PersonalProfile() {
                                 <br></br>
                                 <h4>Results</h4>
                                 <h5>INFP - The Mediator</h5>
-                                <p>The meediator personality type has a lot going for it- however due to wanting truth etc etc etc you know the drill</p>
+                                <p>16 personalities describes the INFP type as
+                                    ‘The mediator’. A description provided is some who is : </p>
+
+                                <blockquote>Creative and imaginative, they happily lose themselves in daydreams,
+                                    inventing all sorts of stories and conversations in their minds. These
+                                    personalities are known for their sensitivity – Mediators can have profound
+                                    emotional responses to music, art, nature, and the people around them</blockquote>
+                                <br />
+                                <p>Some traits of the INFP type have been described as:</p>
+                                <p>Strengths</p>
+                                <ul>
+                                    <li>Empathetic</li>
+                                    <li> Generous</li>
+                                    <li>Open-Minded</li>
+                                    <li>Creative</li>
+                                    <li>Passionate</li>
+                                    <li>Idealistic</li>
+                                    <li></li>
+                                </ul>
+                                <p>Weaknesses</p>
+                                <ul>
+                                    <li>Unrealistic</li>
+                                    <li> Self- Isolating</li>
+                                    <li>Unfocussed</li>
+                                    <li>Self-critical</li>
+
+                                </ul>
                                 <br />
                             </div>
                         </div>
