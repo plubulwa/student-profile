@@ -10,7 +10,7 @@ export default function IdealJob() {
                     <h2>Software Engineer</h2>
                     <p><i>because I wanna do everything</i></p>
                     <br />
-                    <p>#content</p>
+                    
                     <br />
                     <hr></hr>
                     <h2>The Example</h2>

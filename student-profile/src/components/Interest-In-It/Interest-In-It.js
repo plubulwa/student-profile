@@ -7,7 +7,7 @@ export default function InterestInIt() {
                 <h1>Interest In IT</h1>
                 <p><i>where I try to figure out what a computer is</i></p>
                 <br />
-                <p>#content</p>
+                
                 <br />
                 <h2>WHEN DID YOUR INTEREST IN I.T. START</h2>
                 <p>My early beginnings in IT actually begin with trying to create music on an early 486/

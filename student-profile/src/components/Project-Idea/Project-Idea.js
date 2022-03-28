@@ -8,7 +8,7 @@ export default function ProjectIdea() {
                 <h1>Project Idea</h1>
                 <h2>Marco Polo - a Geolocation game application</h2>
                 <br />
-                <p>#content</p>
+                
                 <br />
                 <hr />
                 <h2>Overview</h2>

@@ -17,7 +17,7 @@ export default function PersonalProfile() {
                     <p><i>where I tell you everything inside my mind, based on unproven scientific testing</i></p>
 
                     <br />
-                    <p>#content</p>
+                    
                     <br></br>
                     <hr></hr>
                     <h2>The Tests</h2>
@@ -34,12 +34,11 @@ export default function PersonalProfile() {
                             </div>
                         </div>
                         <div className="test-small">
-                            <p>Insert image here</p>
                             <img className="test-pic" src={test1} alt="INFP"></img>
                         </div>
                     </div>
                     <div className="test-container">
-                        
+
                         <div className="test-large">
                             <div id="test2" className="test-text-wrapper">
                                 <h3>Test 2: Learning Styles Test</h3>
@@ -47,17 +46,21 @@ export default function PersonalProfile() {
                                 <br></br>
                                 <h4>Results</h4>
                                 <p>Visual - 38%</p>
-                                <p><i>I shot half of the above clip- breaking the fourth wall</i></p>
                                 <p>Kinetic - 33%</p>
                                 <p>Aural - 29%</p>
-
-                                <p>ANALYSIS</p>
+                                <br />
+                                <p>The results of this test showed a preference to visual based learning.,
+                                    followed closely by kinetic based learning. Visual based learning also
+                                    involves the use of written materials, not just diagrams and video. I
+                                    would interpret these results as a sign that I prefer written and practical
+                                    styles of learning, as opposed to auditory/ lecture based learning. The
+                                    other result it implies that by combining an action or written material
+                                    to an auditory process will enhance my learning of a subject.</p>
                                 <br />
                             </div>
                             <div className="test-small">
-                            <p>Insert image here</p>
-                            <img className="test-pic" src={test2} alt="INFP"></img>
-                        </div>
+                                <img className="test-pic" src={test2} alt="INFP"></img>
+                            </div>
                         </div>
                     </div>
                     <div className="test-container">
@@ -68,12 +71,16 @@ export default function PersonalProfile() {
                                 <br></br>
                                 <h4>Results</h4>
                                 <p>100%</p>
-
+                                <p>As with the results above, this result shows that in general I have a good
+                                    understanding of written materials and instructions. This type of testing is
+                                    limited however – having done a lot of this style of aptitude test over the
+                                    years it could possible show an implied knowledge of this type of testing,
+                                    rather than any particular verbal reasoning propensity.
+                                </p>
                                 <br />
                             </div>
                         </div>
                         <div className="test-small">
-                            <p>Insert image here</p>
                             <img className="test-pic" src={test3} alt="INFP"></img>
                         </div>
                     </div>
