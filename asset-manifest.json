@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/student-profile/static/css/main.36700a8e.css",
-    "main.js": "/student-profile/static/js/main.74629906.js",
+    "main.js": "/student-profile/static/js/main.84e9fdf4.js",
     "static/js/787.4d552d65.chunk.js": "/student-profile/static/js/787.4d552d65.chunk.js",
     "static/media/peter-lubulwa-black.mp4": "/student-profile/static/media/peter-lubulwa-black.61fbdfb3d541d3ee2bed.mp4",
     "static/media/profile-square.png": "/student-profile/static/media/profile-square.3de19f4c3fc5ba164267.png",
@@ -10,11 +10,11 @@
     "static/media/mediator.png": "/student-profile/static/media/mediator.bf363c74b6a302c0f1fe.png",
     "index.html": "/student-profile/index.html",
     "main.36700a8e.css.map": "/student-profile/static/css/main.36700a8e.css.map",
-    "main.74629906.js.map": "/student-profile/static/js/main.74629906.js.map",
+    "main.84e9fdf4.js.map": "/student-profile/static/js/main.84e9fdf4.js.map",
     "787.4d552d65.chunk.js.map": "/student-profile/static/js/787.4d552d65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36700a8e.css",
-    "static/js/main.74629906.js"
+    "static/js/main.84e9fdf4.js"
   ]
 }
