@@ -46,16 +46,9 @@ export default function PersonalProfile() {
                                     <li>Creative</li>
                                     <li>Passionate</li>
                                     <li>Idealistic</li>
-                                    <li></li>
+                                    
                                 </ul>
-                                <p>Weaknesses</p>
-                                <ul>
-                                    <li>Unrealistic</li>
-                                    <li> Self- Isolating</li>
-                                    <li>Unfocussed</li>
-                                    <li>Self-critical</li>
-
-                                </ul>
+                             
                                 <br />
                             </div>
                         </div>
