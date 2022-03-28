@@ -21,11 +21,11 @@ export default function IdealJob() {
                     <p><i>Advertised on Ethical Jobs</i></p>
                     <br />
 
-                    <img src={job1} alt="Stile - job image 1"></img>
+                    <img src={job1} alt="Stile job 1"/img>
                     <br />
-                    <img src={job2} alt="Stile - job image 2"></img>
+                    <img src={job2} alt="Stile - job 2"/img>
                     <br />
-                    <img src={job3} alt="Stile - job image 3"></img>
+                    <img src={job3} alt="Stile - job 3"/img>
                     <br />
                     
                     <h4>Position Description</h4>
